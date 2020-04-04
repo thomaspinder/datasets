@@ -1,0 +1,81 @@
+pod_id_location,start_date_UTC,end_date_UTC,relocate_date_UTC,scaling_method,location_name,Borough,Type,ULEZ,Latitude,Longitude,X_Coord,Y_Coord,Distance_from_Road,Height
+1245,2019-02-15 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Dollis Road,Barnet,Kerbside,No,51.604486,-0.206551,524299.9229,191038.6267,1.2,3.1
+2245,2019-05-03 10:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Great Ormond St Hospital,Camden,Roadside,Yes,51.52188,-0.120434,530499.4261,182002.3181,2.5,2.8
+3245,2018-10-04 18:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Savernake Road,Camden,Urban Background,No,51.5554849,-0.1523385,528191.724,185682.9587,5,2.297
+5245,2019-03-06 15:55:00,2020-03-23 23:59:00,NA,Network Based Calibration,Garrett Lane,Wandsworth,Kerbside,No,51.440399,-0.186775,526117.9944,172825.4459,1,3.445
+6245,2019-03-07 13:37:00,2020-03-23 23:59:00,NA,Network Based Calibration,Hanworth Road,Hounslow,Kerbside,No,51.468625,-0.35977,514028.3706,175680.7242,1.2,3.2
+8245,2019-02-14 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Geraldine Street,Southwark,Urban Background,Yes,51.49562,-0.105412,531617.1416,179108.998,21,2.225
+9245,2019-03-21 11:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Whitehall,Westminster,Kerbside,Yes,51.504566,-0.126167,530148.4296,180066.3016,1.2,2.9
+10245,2019-04-09 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Borough High Street,Southwark,Roadside,Yes,51.506131,-0.088654,532747.5427,180309.9732,3,5
+11245,2018-10-09 11:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Cadogan Gardens,Kensington & Chelsea,Roadside,No,51.493217,-0.158772,527919.9752,178747.2644,2.3,1.762
+12245,2018-10-09 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Pattison Road,Barnet,Urban Background,No,51.560877,-0.195749,525167.0635,186206.4587,8.3,1.75
+13245,2018-10-18 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Hunslett Street,Tower Hamlets,Urban Background,No,51.529308,-0.048721,535452.3321,182958.5548,2,2
+15245,2018-10-25 07:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Caledonian Road,Islington,Kerbside,No,51.550067,-0.117987,530585.3666,185137.5427,2.3,3.1
+16245,2019-03-07 15:35:00,2020-03-23 23:59:00,NA,Network Based Calibration,Kensington Church Walk,Kensington & Chelsea,Urban Background,No,51.501862,-0.19241,525561.1801,179650.4321,9,1.525
+18245,2019-03-07 12:05:00,2020-03-23 23:59:00,NA,Network Based Calibration,London Road,Kingston,Kerbside,No,51.410714,-0.296626,518563.8152,169340.8706,1,3.25
+19245,2018-09-28 16:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Mansford Street,Tower Hamlets,Urban Background,No,51.528757,-0.061823,534545.1839,182873.1272,2,11
+20245,2018-10-03 21:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Albert Street,Camden,Roadside,No,51.536271,-0.143525,528859.4172,183562.4421,3.6,3.658
+21245,2018-10-18 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Wood Lane,Barking & Dagenham,Kerbside,No,51.561372,0.148582,549034.541,186905.1839,1,3
+25245,2018-09-27 09:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Laystall St,Camden,Roadside,Yes,51.522514,-0.112014,531087.6619,182085.6874,2,3
+26245,2019-03-05 11:30:00,2020-03-23 23:59:00,NA,Network Based Calibration,Larkshall Road,Waltham Forest,Roadside,No,51.618933,-0.000281,538530.2078,193014.5457,0.5,3.4
+27245,2018-10-03 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,St Anns Hill,Wandsworth,Roadside,No,51.456143,-0.18927,525904.8363,174571.6912,4.2,2.145
+28245,2019-04-11 00:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Markfield Road,Haringey,Kerbside,No,51.583916,-0.064269,534213.1826,189002.5014,1.1,3.24
+29245,2018-10-05 10:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Crowthorne Road,Kensington & Chelsea,Roadside,No,51.516554,-0.218503,523710.4458,181239.8547,0.9,3.353
+30245,2018-10-04 14:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Stockwell Road,Lambeth,Roadside,No,51.466706,-0.117473,530863.915,175873.2441,5,2.286
+32245,2019-03-04 14:31:00,2020-03-23 23:59:00,NA,Network Based Calibration,Southbury Road,Enfield,Kerbside,No,51.649088,-0.054961,534664.6639,196264.8456,1.1,3.1
+33245,2019-09-17 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Pemberton Gardens,Islington,Urban Background,No,51.562469,-0.132545,529542.5915,186496.8159,0.3,3
+34245,2018-10-16 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Haimo Road,Greenwich,Urban Background,No,51.455253,0.040655,541881.0929,174892.7056,5,2
+35245,2018-10-18 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Triangle Adventure Playground,Lambeth,Urban Background,No,51.481924,-0.115556,530952.2198,177567.7874,6,2.35
+36245,2019-02-28 12:11:00,2020-03-23 23:59:00,NA,Network Based Calibration,Black Horse Court,Southwark,Kerbside,Yes,51.496482,-0.088226,532799.2397,179229.1059,0.3,3.1
+37245,2018-10-12 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Station Parade,Barking & Dagenham,Kerbside,No,51.539063,0.080874,544410.2627,184291.0103,1,3.114
+38245,2019-03-04 16:40:00,2020-03-23 23:59:00,NA,Network Based Calibration,Chigwell Road,Redbridge,Roadside,No,51.595229,0.038207,541270.7546,190456.4922,6,3.023
+39245,2019-05-22 17:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Hendon Street,Greenwich,Urban Background,No,51.495027,0.010292,539650.247,179257.2713,0,3
+40245,2018-10-10 10:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Queen Margarets Grove,Islington,Urban Background,No,51.549215,-0.079761,533241.2495,185115.3176,5.7,2.305
+42245,2019-03-05 10:17:00,2020-03-23 23:59:00,NA,Network Based Calibration,Romford Road,Newham,Kerbside,No,51.554615,0.058982,542843.0601,185977.8612,0.5,3.3
+42452,2019-03-06 14:35:00,2020-03-20 01:00:00,2020-03-20 01:00:00,Network Based Calibration,Wandsworth Road,Lambeth,Kerbside,No,51.475735,-0.131209,529881.9791,176852.2693,0.5,3.12
+43245,2019-03-06 11:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Durham Street,Lambeth,Urban Background,Yes,51.485597,-0.11909,530699.4931,177970.8743,8.5,3.011
+44245,2018-10-11 11:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,West Smithsfield,City of London,Kerbside,Yes,51.518921,-0.100905,531861.3897,181710.159,1.5,3.012
+45245,2018-12-01 00:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Ladbroke Grove,Kensington & Chelsea,Roadside,No,51.510768,-0.20529,524642.5327,180618.6242,0.4,5.87
+46245,2018-10-26 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Exhibition Road,Kensington & Chelsea,Roadside,No,51.495475,-0.173573,526893.2168,178972.8174,3.1,6.1
+47245,2019-03-14 15:10:00,2020-03-23 23:59:00,NA,Network Based Calibration,Whitecross,Islington,Urban Background,Yes,51.521451,-0.092771,532419.7357,182004.2672,12.4,3.126
+48245,2018-10-19 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Peckham Road,Southwark,Urban Background,No,51.474326,-0.078151,533567.022,176786.3635,NA,2.9
+49245,2019-02-19 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Ellenborough Road,Haringey,Urban Background,No,51.59906,-0.095201,532026.3828,190630.2976,6.4,3.5
+51245,2019-02-26 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Lancell Street,Hackney,Urban Background,No,51.5618,-0.07587,533474.2002,186521.9029,22.2,2.943
+52245,2018-10-16 11:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Dagnall Street,Wandsworth,Urban Background,No,51.4738,-0.157493,528063.0973,176590.2608,36.7,3.75
+53245,2018-10-17 11:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Devas Street,Tower Hamlets,Urban Background,No,51.523099,-0.012704,537967.7461,182340.7169,12,2
+54245,2018-10-10 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Holloway Bus Garage,Islington,Roadside,No,51.561917,-0.132947,529517.7305,186432.3744,2.1,2.581
+55245,2018-12-17 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Upper Richmond Road,Richmond,Roadside,No,51.465116,-0.254736,521332.7818,175460.2846,4,3
+56245,2018-10-17 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,The Vale,Ealing,Urban Background,No,51.506679,-0.262782,520664.3328,180059.5757,10,3.5
+57245,2018-10-18 17:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Lollard Street,Lambeth,Urban Background,Yes,51.492714,-0.114098,531022.5457,178770.2733,10,2
+59245,2019-03-20 16:48:00,2020-03-23 23:59:00,NA,Network Based Calibration,Drury Lane,Westminster,Urban Background,Yes,51.513472,-0.119223,530605.4581,181065.6835,7,3
+60245,2019-03-06 12:40:00,2020-03-23 23:59:00,NA,Network Based Calibration,Camberwell Road,Southwark,Kerbside,No,51.475739,-0.093557,532495.9891,176918.9231,0.7,3.1
+62245,2018-10-23 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Hendon Way,Barnet,Urban Background,No,51.571687,-0.210037,524142.974,187382.4249,10.6,4.86
+63245,2018-10-15 18:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Oakdale Road,Redbridge,Urban Background,No,51.592485,0.033284,540944.9368,190138.8431,1.5,2.965
+64245,2018-10-16 10:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Morpeth Street,Tower Hamlets,Roadside,No,51.527588,-0.047295,535556.3458,182769.925,2,2
+65245,2019-02-27 14:17:00,2020-03-23 23:59:00,NA,Network Based Calibration,Edgware Road,Westminster,Kerbside,No,51.51419,-0.161979,527638.7888,181073.9487,0.3,3.1
+66245,2018-10-16 14:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Columbia Road,Tower Hamlets,Urban Background,No,51.528491,-0.074268,533682.7495,182820.7544,15.6,2.6
+67245,2019-03-21 10:30:00,2020-03-23 23:59:00,NA,Network Based Calibration,Wyndham Road,Ealing,Urban Background,No,51.50061,-0.320726,516658.6329,179299.094,NA,2.866
+68245,2018-11-02 00:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Blomfontein Road,Hammersmith & Fulham,Roadside,No,51.514071,-0.235418,522540.6188,180934.6,0.25,3.5
+69245,2018-10-18 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Devonshire Street,Hounslow,Urban Background,No,51.488199,-0.255688,521205.6051,178024.4867,NA,2.126
+71245,2019-03-12 13:50:00,2020-03-23 23:59:00,NA,Network Based Calibration,Beaumont Grove,Tower Hamlets,Urban Background,No,51.521004,-0.046559,535626.9439,182039.1302,NA,2.767
+72245,2019-03-13 15:55:00,2020-03-23 23:59:00,NA,Network Based Calibration,Marylebone,Westminster,Roadside,Yes,51.52304,-0.174732,526729.3718,182035.9607,1.4,3
+73245,2019-02-14 13:45:00,2020-03-23 23:59:00,NA,Network Based Calibration,Kew Road,Richmond,Kerbside,No,51.46394,-0.301597,518077.961,175253.8869,1,3.03
+75245,2018-10-24 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Robin Hood Health Centre,Sutton,Roadside,No,51.362842,-0.196908,525629.4403,164183.2753,1.5,2.9
+76245,2019-03-07 10:25:00,2020-03-23 23:59:00,NA,Network Based Calibration,Roehampton Lane,Wandsworth,Roadside,No,51.455096,-0.243402,522142.84,174364.5799,1.7,3.3
+77245,2019-03-13 11:20:00,2020-03-23 23:59:00,NA,Network Based Calibration,Cornwall Road,Lambeth,Kerbside,Yes,51.506643,-0.112107,531120.8062,180322.7835,1,3
+78245,2019-03-15 23:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Cecilia Road,Hackney,Roadside,No,51.54989,-0.06836,534032.0795,185211.4701,0.3,3.5
+80245,2019-03-01 12:19:00,2020-03-23 23:59:00,NA,Network Based Calibration,Ballance Road,Hackney,Roadside,No,51.5456,-0.03614,536276.3304,184793.6152,0.3,3.3
+81245,2018-10-23 09:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Bonington Road,Havering,Urban Background,No,51.544414,0.21182,553472.6492,185152.4722,10.3,3.02
+82245,2019-03-01 23:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Haverstock Hill,Camden,Roadside,No,51.549012,-0.162351,527513.696,184943.6321,1.3,3.2
+83245,2019-05-02 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Brook Drive,Southwark,Urban Background,Yes,51.493213,-0.101559,531889.3517,178848.6112,20,2.5
+86245,2019-02-28 10:37:00,2020-03-23 23:59:00,NA,Network Based Calibration,Commercial Street,Tower Hamlets,Kerbside,Yes,51.518123,-0.074271,533711.1536,181667.1106,0.3,3.1
+88245,2018-10-29 12:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,London Wall,City of London,Kerbside,Yes,51.516749,-0.085342,532948.3917,181494.0067,0.3,3.03
+90245,2019-02-27 15:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Broadway Street,Bexley,Roadside,No,51.45788,0.135353,548452.1375,175376.2589,0.46,3.5
+93245,2019-07-03 13:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Beckenham Lane,Bromley,Roadside,No,51.4073728,0.0057789,539603.2683,169496.4413,4,3
+96245,2019-03-08 10:27:00,2020-03-23 23:59:00,NA,Network Based Calibration,Rosebery Avenue,Islington,Roadside,Yes,51.52844,-0.10692,531418.061,182755.9797,0.3,3.23
+98245,2019-03-04 23:00:00,2020-03-23 23:59:00,NA,Network Based Calibration,Hertford Road,Enfield,Kerbside,No,51.673753,-0.038301,535739.7371,199042.3058,0.2,3.19
+222450,2018-10-02 12:00:00,2020-03-18 01:00:00,2020-03-18 01:00:00,Network Based Calibration,Blackfriars Road,Southwark,Kerbside,Yes,51.505529,-0.104345,531657.8302,180212.8254,0.5,2.457
+312452,2018-10-11 16:00:00,2020-03-20 01:00:00,2020-03-20 01:00:00,Network Based Calibration,Tower Bridge Road,Southwark,Roadside,Yes,51.501965,-0.077592,533524.4056,179865.6484,3.3,2.945
+332450,2018-10-16 17:00:00,2019-07-24 02:00:00,2019-07-24 02:00:00,Network Based Calibration,Churchill Gardens Road,Westminster,Urban Background ,No,51.486223,-0.14503,528893.6111,177993.5895,10.5,19.5
+332451,2019-09-03 13:00:00,2019-09-17 02:00:00,2019-09-17 02:00:00,Network Based Calibration,Holloway Road,Islington,Roadside,No,51.555387,-0.116092,530700.6533,185732.4358,2,2.5
+702450,2018-10-26 09:00:00,2020-03-02 01:00:00,2020-03-02 01:00:00,Network Based Calibration,St James,Lewisham,Urban Background,No,51.474143,-0.038547,536322.4045,176842.9629,NA,2.13
